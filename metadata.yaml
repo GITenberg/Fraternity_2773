@@ -1,5 +1,8 @@
 _repo: Fraternity_2773
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -14,6 +17,8 @@ description: Widely considered one of Galsworthy's best novels, Fraternity is fi
   the painter Bianca Dallison, the utopian dreamer Mr. Stone, and the working-class
   Hughes family. One contemporary critic called Fraternity as near being a perfect
   work of art as any novel ever written."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2773#Fraternity
 gutenberg_issued: '2006-06-14'
 gutenberg_type: Text
 identifiers:
